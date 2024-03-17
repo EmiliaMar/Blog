@@ -46,9 +46,9 @@ This application allows users to create and manage posts within specific categor
    ```sh
    npm install
    ```
-3. Enter your API in `config.js`
+3. Run the application
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   npm run develop
    ```
 
 

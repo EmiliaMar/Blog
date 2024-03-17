@@ -1,20 +1,20 @@
 {
-  "name": "blog",
+  "name": "dashboard",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "develop": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "ejs": "^3.1.9",
-    "express": "^4.18.3",
-    "mongoose": "^8.2.2",
-    "passport": "^0.7.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.3",
+    "passport": "^0.4.1",
     "passport-local": "^1.0.0"
   }
 }
